@@ -1,0 +1,26 @@
+{
+    "name": "ali_atef/algorithms",
+    "type": "project",
+    "description": "Self Learn Problem solving.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ali_atef",
+            "email": "aliy.atef9@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

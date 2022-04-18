@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\TwoSumTest::testClassConstructor":3,"app\\UserTest::testClassConstructor":4,"UserTest::testClassConstructor":4},"times":{"Tests\\TwoSumTest::testClassConstructor":0.002,"app\\UserTest::testClassConstructor":0,"UserTest::testClassConstructor":0.005}}
